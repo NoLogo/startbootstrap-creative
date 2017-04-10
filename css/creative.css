@@ -29,6 +29,9 @@ a:hover,
 a:focus {
   color: #eb3812;
 }
+a.light {
+  color: white;
+}
 h1,
 h2,
 h3,
